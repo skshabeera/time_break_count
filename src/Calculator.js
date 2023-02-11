@@ -5,25 +5,23 @@ const Calculator = () => {
   const [end, setEnd] = useState("");
   const [deducttime, setDeductTime] = useState("");
   const [totaltime, setTotalTime] = useState("");
-  // const [message,setMessage] = useState("")
-  // const [am,setam] = useState("")
-  // const [pm,setpm] = useState("")
+
   
   // const Starttimecalculation = (e) => {
     
   //   var StartTime = e.target.value;
   //   if (StartTime <= 12 ? "am" : "pm" )
         
-    // var startInins = StartTime.split(":")
-    // var time = start.split(":")[0]*60 + start.split(":")[1]?start.split(":")[1]:0
+  //   var startInins = StartTime.split(":")
+  //   var time = start.split(":")[0]*60 + start.split(":")[1]?start.split(":")[1]:0
     
-    // setStart(StartTime)
+  //   setStart(StartTime)
   // };
   // const Endtimecalculation = (e) => {
   //   var endTime = e.target.value;
-  //   var time = endTime+12
+  //   var time = endTime+12_-_
   //   if (time >=12 ? "pm " : "am" )
-  //   setEnd(endTime);
+  //   setEnd(endTime);_
   // };
   // const DeductTimeCalculation = (e) => {
   //   var DeductTime = e.target.value ;
