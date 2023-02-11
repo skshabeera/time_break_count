@@ -22,7 +22,7 @@ const Calculator = () => {
   // const Endtimecalculation = (e) => {
   //   var endTime = e.target.value;
   //   var time = endTime+12
-  //   if (time >=12 ? "pm " : "am" )////////////
+  //   if (time >=12 ? "pm " : "am" )
   //   setEnd(endTime);
   // };
   // const DeductTimeCalculation = (e) => {
